@@ -1,0 +1,6 @@
+openai
+cassandra-driver
+cassio
+langchain
+tiktoken
+protobuf~=3.19.0
